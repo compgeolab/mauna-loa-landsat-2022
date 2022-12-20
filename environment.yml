@@ -11,5 +11,5 @@ dependencies:
   - matplotlib-scalebar
   - jupyterlab
   - pooch
-  - pip:
-    - xlandsat
+  - tqdm
+  - xlandsat
